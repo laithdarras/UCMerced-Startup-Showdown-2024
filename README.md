@@ -58,12 +58,12 @@ But more importantly, it was an amazing experience that gave me insight into wha
 
 ## What's in this repo?
 This repository documents the full journey of Big Bytes:
-- ✅ Business Plan
-- ✅ Pitch Deck
-- ✅ Financial Projections (with IRR)
-- ✅ Marketing Materials
-- ✅ Prototype Photos
-- ✅ Commercial and Pitch Videos
+- Business Plan
+- Pitch Deck
+- Financial Projections (with IRR)
+- Marketing Materials
+- Prototype Photos
+- Commercial and Pitch Videos
 
 ---
 
