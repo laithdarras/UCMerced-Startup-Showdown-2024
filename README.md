@@ -64,6 +64,7 @@ This repository documents the full journey of Big Bytes:
 - Marketing Materials
 - Prototype Photos
 - Commercial and Pitch Videos
+- Photos from the competition
 
 ---
 
